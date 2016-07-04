@@ -56,7 +56,7 @@ table {
 body {
   background-image: url("../images/background.jpg");
   background-repeat: no-repeat;
-  background-position: bottom top;
+  /*background-position: bottom top;*/
   color: #000000;
   font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 8px 20px 8px 20px;
