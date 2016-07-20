@@ -137,12 +137,17 @@ font-weight: 220;
   color: #000000;
 }
 
-.bottom-half div > ul{
-  float: left;
+.bottom-half div ul{
+  /*float: left;*/
   margin-top: 10px;
-  min-width: 20%;
+  /*min-width: 20%;*/
   color: white;
+}
 
+.list-container {
+  display: flex;
+  justify-content:center;
+  align-items: center;
 }
 
 .centered p {
@@ -179,10 +184,10 @@ a {
   text-decoration: none;
   font-weight: 490;
 }
+
 a:hover {
   color: #ff4040;
 }
-
 
 #gif img{
   margin: auto;
